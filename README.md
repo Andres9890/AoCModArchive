@@ -6,7 +6,10 @@
 
 ### Mods
 
-No mods have been published yet
+| Mod file | Site | Release |
+| --- | --- | --- |
+| Cosmetic Layers-(com.yourname.cosmeticlayers)-0.6.0.dll | [Download from site](<https://andres9890.github.io/AoCModArchive/Cosmetic%20Layers-%28com.yourname.cosmeticlayers%29-0.6.0.dll>) | [Download from release](<https://github.com/Andres9890/AoCModArchive/releases/download/com.yourname.cosmeticlayers/Cosmetic.Layers-.com.yourname.cosmeticlayers.-0.6.0.dll>) |
+| Cosmetic Layers-(com.yourname.cosmeticlayers)-0.7.1.dll | [Download from site](<https://andres9890.github.io/AoCModArchive/Cosmetic%20Layers-%28com.yourname.cosmeticlayers%29-0.7.1.dll>) | [Download from release](<https://github.com/Andres9890/AoCModArchive/releases/download/com.yourname.cosmeticlayers/Cosmetic.Layers-.com.yourname.cosmeticlayers.-0.7.1.dll>) |
 
 ### Other files
 
